@@ -1,0 +1,5 @@
+#!/bin/zsh
+# 查看屏幕使用时间 - 中文命令
+SCRIPT_DIR="/Users/apple/查看使用时间"
+python3 "$SCRIPT_DIR/screen_time_checker.py" "$@" 
+ 
